@@ -28,4 +28,3 @@ String size;
         scan.close();
     }
             }
-}
